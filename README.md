@@ -161,7 +161,7 @@ def analyze_nutrition(blood_report_data: str) -> str:
 
 1. **Clone or Download the Project**
 ```bash
-git clone <repository-url>
+git clone https://github.com/prakhar1009/blood-test-analyser-debug.git
 cd blood-test-analyzer
 ```
 
