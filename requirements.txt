@@ -1,0 +1,27 @@
+# Core dependencies
+fastapi>=0.104.1
+uvicorn[standard]>=0.24.0
+python-multipart>=0.0.6
+
+# CrewAI and AI dependencies - Updated to latest compatible versions
+crewai>=0.70.1
+crewai-tools>=0.12.1
+openai>=1.13.3
+
+# PDF processing
+PyPDF2>=3.0.1
+
+# Data processing
+pandas>=2.1.4
+python-dotenv>=1.0.0
+
+# Web scraping (for search tools)
+requests>=2.31.0
+beautifulsoup4>=4.12.2
+
+# Additional dependencies for CrewAI
+pydantic>=2.0.0
+litellm>=1.17.0
+
+# Optional: Enhanced search capabilities
+#erper-python
